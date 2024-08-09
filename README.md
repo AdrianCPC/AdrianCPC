@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriancpc&label=Profile%20views&color=0e75b6&style=flat" alt="adriancpc" /> </p>
 
-- 🔭 I’m currently working on project [Decade with Nobel Prize Winners](https://github.com/AdrianCPC/Visualizing_Nobel_Prize_Winner)
+- 🔭 I’m currently working on project [Decade with Nobel Prize Winners](https://github.com/AdrianCPC/Analyzing_Crime_LA)
 
 - 🌱 I’m currently learning **Data Analyst and Data Engineering**
 
