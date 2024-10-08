@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adrian Peña</h1>
-<h3 align="center">A passionate Data Analyst from Colombia</h3>
+<h3 align="center">A passionate QA and Data Analyst from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adriancpc&label=Profile%20views&color=0e75b6&style=flat" alt="adriancpc" /> </p>
 
 - 🔭 I’m currently working on project [Analyzing Crimes in LA](https://github.com/AdrianCPC/Analyzing_Crime_LA)
 
-- 🌱 I’m currently learning **Data Analyst and Data Engineering**
+- 🌱 I’m currently learning ** QA and Data Analyst **
 
 - 👯 I’m looking to collaborate on **projects about data analysis and data engineer**
 
