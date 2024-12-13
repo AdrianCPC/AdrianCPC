@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning ** QA and Data Analyst **
 
-- 👯 I’m looking to collaborate on **projects about data analysis and data engineer**
+- 👯 I’m looking to collaborate on **projects about data analysis and QA**
 
 - 🤝 I’m looking for help with **learning Python and Django**
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Analysis and QA**
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adriancpc&theme=highcontrast" alt="adriancpc" /></p>
 
